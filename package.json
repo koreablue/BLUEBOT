@@ -1,0 +1,9 @@
+{
+  "name": "WIN10",
+  "version": "1.0.0",
+  "description": "" ,
+  "main": "index.js",
+  "scripts": {
+    "r": "node index.js"
+  }
+}
